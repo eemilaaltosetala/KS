@@ -1,1 +1,17 @@
 Commit = tallentaa tiedoston tilan tiettyyn hetkeen, mahdollistaa eri versioihin palaamisen
+
+Pull = noutaa muutokset
+
+Push = Puskee muutokset paikallisesta reposta remoteen
+
+Remote = Toinen repository jossain muualla
+
+Repository = Paikka mihin tiedostot tallentuu ja missä asiat gitissä elävät, sisältää kaiken tärkeän tiedon seurattavista tiedostoista
+
+Clone = Hakee kopion reposta kloonaamalla sen siihen hakemistoon, missä komento suoritetaan
+
+Pull request = Tarjotaan muutoksia omasta reposta toisen repositoryyn. Kysyy haluaako muutoksen ottaa vastaan
+
+Staging area = Tiedosto .git hakemistossa, joka tietää seuraavan commitin muutokset. Commitoitavaa voi vielä muuttaa
+
+.gitignore =  tekstitiedosto, jolla voi piilottaa hakemkistoja ja tiedostoja gitiltä. Kertoo gitille mitä tulee piilottaa
