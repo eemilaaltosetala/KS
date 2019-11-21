@@ -1,0 +1,1 @@
+Commit = tallentaa tiedoston tilan tiettyyn hetkeen, mahdollistaa eri versioihin palaamisen
