@@ -1,6 +1,6 @@
 Commit = tallentaa tiedoston tilan tiettyyn hetkeen, mahdollistaa eri versioihin palaamisen
 
-Pull = noutaa muutokset
+Pull = noutaa muutokset remote reposta ja päivittää ne local repoon
 
 Push = Puskee muutokset paikallisesta reposta remoteen
 
